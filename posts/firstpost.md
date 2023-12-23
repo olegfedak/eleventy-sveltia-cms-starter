@@ -4,7 +4,7 @@ description: This is a sample meta description. If one is not present in your pa
 date: 2019-01-03
 author: Jane Doe
 summary: Why contemplating our mortality can increase customer success by 500%
-image: https://images.unsplash.com/photo-1680238461708-42bab9b00887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0Mjk5Mjl8MHwxfGFsbHw5fHx8fHx8Mnx8MTY4MDI2NTE2MA&ixlib=rb-4.0.3&q=80&w=1080
+image: /assets/img/Знімок екрана 2023-12-22 о 15.23.33.png
 imageAltText: A city at dusk
 tags:
   - tech
